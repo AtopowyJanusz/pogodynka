@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    margin-top: 50px;
+}
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h4 {
+    text-align: center;
+}
+
+table {
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+tr {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
